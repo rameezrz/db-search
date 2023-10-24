@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/rameezrz/db-search/issues"
   },
-  "homepage": "https://github.com/rameezrz/db-search#readme"
+  "homepage": "https://github.com/rameezrz/db-search#readme",
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  }
 }
