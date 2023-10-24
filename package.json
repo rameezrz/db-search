@@ -1,6 +1,6 @@
 {
   "name": "@rameezrz/db-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A custom npm package for Database Searching. Currently supports with MongoDB.",
   "main": "index.js",
   "engines": {
